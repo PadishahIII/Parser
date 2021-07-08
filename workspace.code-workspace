@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			".\\src",
+			".\\test"
+		],
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.project.outputPath": ".\\bin"
+	}
+	
+}
